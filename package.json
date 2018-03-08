@@ -1,0 +1,27 @@
+{
+  "name": "14_Burger-App",
+  "version": "1.0.0",
+  "description": "Eat-Da-Burger is a restaurant app that lets the user input the names of burgers they would like to eat and submit it like an order.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeAnnS/14_Burger-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeAnnS/14_Burger-App/issues"
+  },
+  "homepage": "https://github.com/LeAnnS/14_Burger-App#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.15.0"
+  }
+}
